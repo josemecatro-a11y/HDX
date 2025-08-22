@@ -1,0 +1,107 @@
+[
+ {
+  "Cuenta de cliente": "00097494",
+  "Material user": 4388,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "VOLVO\/GM7 2901-0016",
+  "Ciudad": "DUBLIN",
+  "Direccion(Solo referencia)": "4881 COUGAR TRAIL RD REC INSP DEP DUBLIN, YA 24084"
+ },
+ {
+  "Cuenta de cliente": "21002951",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "WESTPORT A-PA ASSEMBLY",
+  "Ciudad": "BREINIGSVILLE",
+  "Direccion(Solo referencia)": "650 BOULDER DRIVE, SUITE 100B BREINGSVILLE, PA 18031"
+ },
+ {
+  "Cuenta de cliente": "00961828",
+  "Material user": 4296,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "MACK TRUCKS INC-CKD",
+  "Ciudad": "MACUNGIE",
+  "Direccion(Solo referencia)": "3041 SCHOENECK RD CKD Dock Doors 114-117 MACUANGIE, PA 18062"
+ },
+ {
+  "Cuenta de cliente": "00961515",
+  "Material user": 4388,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "WESTPORT-ROANOKE ASSEMBLY",
+  "Ciudad": "ROANOKE",
+  "Direccion(Solo referencia)": "802 KYLE AVENUE ROANAKE VA,24014"
+ },
+ {
+  "Cuenta de cliente": "00099797",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "MACK TRUCKS INC",
+  "Ciudad": "MACUNGIE",
+  "Direccion(Solo referencia)": "7000 ALBURTIS Rd MACUNGIE PA 18062"
+ },
+ {
+  "Cuenta de cliente": "21002988",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "WESTPORT A-PA ASSEMBLY",
+  "Ciudad": "BREINIGSVILLE",
+  "Direccion(Solo referencia)": "650 BOULDER DRIVE, SUITE 100B BREINGSVILLE, PA 18031"
+ },
+ {
+  "Cuenta de cliente": "10004463",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "MACK TRUCKS INC",
+  "Ciudad": "YORK",
+  "Direccion(Solo referencia)": "609 MEMORY LANE YOTK PA 17402 (YLC) Y 2919 OLD TREE DRIVE"
+ },
+ {
+  "Cuenta de cliente": "21006375",
+  "Material user": 4285,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "WESTPORT AXLE CORPORATION",
+  "Ciudad": "ALBURTIS",
+  "Direccion(Solo referencia)": "8801 CONGDON HILL DRIVE SUITE 2 ALBURTIS, PA 18011"
+ },
+ {
+  "Cuenta de cliente": "21006992",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "CAMRETT LOGISTICS, INC",
+  "Ciudad": "GUILFORD",
+  "Direccion(Solo referencia)": "PO BOX 26115, GREENSBORO, NC 27402, GUILFORD, USA"
+ },
+ {
+  "Cuenta de cliente": "21006991",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "GTT GSO BRIGHAM PROTO WH",
+  "Ciudad": "GUILFORD",
+  "Direccion(Solo referencia)": "PO BOX 26115, GREENSBORO, NC 27402, GUILFORD, USA"
+ },
+ {
+  "Cuenta de cliente": "21005196",
+  "Material user": 4285,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "LVLC",
+  "Ciudad": "MACUNGIE",
+  "Direccion(Solo referencia)": "3041 SCHOENECK RD CKD Dock Doors 114-117 MACUANGIE, PA 18062"
+ },
+ {
+  "Cuenta de cliente": "21002728",
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "VOLVO TRUCKS NORTH AMERICA",
+  "Ciudad": "GREENSBORO",
+  "Direccion(Solo referencia)": "7900 NATIONAL SERVICE RD GREENSBORO, NC 27409"
+ },
+ {
+  "Cuenta de cliente": "21006690",
+  "Material user": 8508,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "MACK MEDIUM DUTY, RVO",
+  "Ciudad": "SALEM",
+  "Direccion(Solo referencia)": "6450 TECHNOLOGY DRIVE SALEM, VA 24153"
+ },
+ {
+  "Cuenta de cliente": "21006651",
+  "Material user": 4388,
+  "Instrucción": "VOLVO-1",
+  "Nombre de cliente": "PATTON WAREHOUSEING, LLC",
+  "Ciudad": "PENSILVANIA",
+  "Direccion(Solo referencia)": "28 PATTON DR, MILTON, PA 17847, ESTADOS UNIDOS"
+ }
+]
